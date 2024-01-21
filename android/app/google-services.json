@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527460858473",
+    "project_id": "desmobil-9f202",
+    "storage_bucket": "desmobil-9f202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527460858473:android:d75fc4b0b99dc6a3e340f8",
+        "android_client_info": {
+          "package_name": "com.my.multistore_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2gXOP43Vcir5QhM4j6fwxsDk3qe2NteA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
